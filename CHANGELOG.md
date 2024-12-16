@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-15)
+## Unreleased (2024-12-16)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`baffefb`](https://github.com/stdlib-js/stdlib/commit/baffefb25177147fa3bafa5c1d0562a7528d5054) - **docs:** fix comment _(by Athan Reines)_
 -   [`c3bffe5`](https://github.com/stdlib-js/stdlib/commit/c3bffe513318480e2ce4645bb05895df8148ee1e) - **feat:** add `ndarray/base/min-signed-integer-dtype` _(by Athan Reines)_
 
 </details>
