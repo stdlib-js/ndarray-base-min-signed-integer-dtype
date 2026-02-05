@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-base-min-signed-integer-dtype",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Determine the minimum ndarray data type for storing a provided signed integer value.",
   "license": "Apache-2.0",
   "author": {
